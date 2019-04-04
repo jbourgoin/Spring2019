@@ -1,10 +1,10 @@
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\bin\Debug\JB_WinForm.exe.config
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\bin\Debug\JB_WinForm.exe
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\bin\Debug\JB_WinForm.pdb
-C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csprojAssemblyReference.cache
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.Form1.resources
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.Properties.Resources.resources
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csproj.GenerateResource.cache
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csproj.CoreCompileInputs.cache
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.exe
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csprojResolveAssemblyReference.cache
