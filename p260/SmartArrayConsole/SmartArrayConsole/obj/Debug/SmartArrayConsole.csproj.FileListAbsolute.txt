@@ -1,0 +1,7 @@
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\bin\Debug\SmartArrayConsole.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\bin\Debug\SmartArrayConsole.exe
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\bin\Debug\SmartArrayConsole.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\obj\Debug\SmartArrayConsole.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\obj\Debug\SmartArrayConsole.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\obj\Debug\SmartArrayConsole.exe
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayConsole\SmartArrayConsole\obj\Debug\SmartArrayConsole.pdb

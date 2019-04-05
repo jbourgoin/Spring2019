@@ -7,4 +7,4 @@ C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinFo
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csproj.CoreCompileInputs.cache
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.exe
 C:\Users\Joseph\Desktop\Spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.pdb
-C:\Users\Joseph\Desktop\spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\JB_WinForm\JB_WinForm\obj\Debug\JB_WinForm.csprojAssemblyReference.cache
