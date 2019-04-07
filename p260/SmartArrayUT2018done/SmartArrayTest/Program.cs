@@ -27,31 +27,28 @@ namespace SmartArrayTest
             Console.WriteLine("There is a 333 value in the array? {0}", yes);
 
 
-            //my code
-            mySmartArray.SetAtIndex(0, 0);
-            mySmartArray.SetAtIndex(1, 0);
-            mySmartArray.SetAtIndex(2, 0);
-            mySmartArray.SetAtIndex(3, 0);
-            mySmartArray.SetAtIndex(4, 0);
-            mySmartArray.PrintAllElements();
+            ////my code
+            //mySmartArray.SetAtIndex(0, 0);
+            //mySmartArray.SetAtIndex(1, 0);
+            //mySmartArray.SetAtIndex(2, 0);
+            //mySmartArray.SetAtIndex(3, 0);
+            //mySmartArray.SetAtIndex(4, 0);
+            //mySmartArray.PrintAllElements();
 
-            int actual = 0;
-            int temp = 0;
-            for (int i = 0; i < SMART_ARRAY_SIZE; i++)
-            {
-                actual = mySmartArray.GetAtIndex(i) + 1;
-                mySmartArray.SetAtIndex(i, actual);
-
-
-                temp = temp + mySmartArray.GetAtIndex(i);
-                actual = actual * 0 + temp;
-            }
-            Console.WriteLine("actual value after for loop: "+actual);
-            Console.WriteLine("some temp value after for loop "+temp);
-            Console.WriteLine();
-            mySmartArray.PrintAllElements();
-
-            //end my code
+            //int actual = 0;
+            //int temp = 0;
+            //for (int i = 0; i < SMART_ARRAY_SIZE; i++)
+            //{
+            //    actual = mySmartArray.GetAtIndex(i) + 1;
+            //    mySmartArray.SetAtIndex(i, actual);
+            //    temp = temp + mySmartArray.GetAtIndex(i);
+            //    actual = actual * 0 + temp;
+            //}
+            //Console.WriteLine("actual value after for loop: "+actual);
+            //Console.WriteLine("some temp value after for loop "+temp);
+            //Console.WriteLine();
+            //mySmartArray.PrintAllElements();
+            ////end my code
            
             Console.ReadLine();
         }

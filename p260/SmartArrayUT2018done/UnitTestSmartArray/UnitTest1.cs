@@ -44,6 +44,12 @@ namespace UnitTestSmartArray
         {
             SmartArray testSmartArray = new SmartArray(SMART_ARRAY_SIZE);
 
+            //fill each array position with zeros
+            for (int i = 0; i < SMART_ARRAY_SIZE; i++)
+            {
+                testSmartArray.SetAtIndex(i,0);
+            }
+
             //Test variable
             int actual = 0;
 
@@ -62,7 +68,7 @@ namespace UnitTestSmartArray
             //assert
             // SUM of Array should be 5.
             int expected = 5;
-            Assert.AreEqual(expected, actual, 0.000001,"These values are not equal! AddValueToEach() test failed!");
+            Assert.AreEqual(expected, actual, 0.000001,"These values are not equal! AddValueToEach() test failed! Actual result was not 5");
         }
 
 
