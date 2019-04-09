@@ -1,0 +1,31 @@
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.pdb
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.exe
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.exe.config

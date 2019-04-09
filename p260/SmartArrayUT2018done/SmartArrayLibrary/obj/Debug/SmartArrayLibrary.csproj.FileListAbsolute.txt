@@ -1,0 +1,16 @@
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Documents\SmartArrayGit\Prog210UnitTest\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring2019\Topic  1 - intro\HW-1-spring2019\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
