@@ -1,0 +1,104 @@
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Documents and Settings\anne\My Documents\ADO.NET 3.5 C# applications\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ged\Documents\ADO.NET 4 C#\Applications\Book applications\Chapter 06\DisplayInvoicesDue - Copy\DisplayInvoicesDue\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Book\Book applications\Chapter 06\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\DisplayInvoicesDue\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part1\DisplayInvoicesDueHW\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part1\DisplayInvoicesDueHW\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\InClassProject\InClassProject\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DisplyInvDueBook\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\DispInvDueBkOptCon\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\DisplayInvoicesDue.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\PayablesData.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\bin\Debug\PayablesData.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\05-DispInvDueBkUpdtes\DisplayInvoicesDue\obj\Debug\DisplayInvoicesDue.pdb

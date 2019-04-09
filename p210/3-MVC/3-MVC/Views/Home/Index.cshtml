@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div style="margin-left: 40px;">
+    Company:  Phone Number
+    @foreach (string item in ViewBag.Results)
+    {
+        if(item.Length > 9)
+        {
+            {<br />}
+            {@Html.Label(item)}
+
+        }
+    }
+</div>
+

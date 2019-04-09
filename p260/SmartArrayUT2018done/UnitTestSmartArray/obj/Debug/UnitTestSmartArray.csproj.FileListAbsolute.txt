@@ -22,10 +22,11 @@ C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.dll
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.pdb
-C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csprojResolveAssemblyReference.cache
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CoreCompileInputs.cache
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.exe
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.pdb
 C:\Users\Joseph\Desktop\Spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\bin\Debug\SmartArrayTest.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\SmartArrayUT2018done\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CopyComplete

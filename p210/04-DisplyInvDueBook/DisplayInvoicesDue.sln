@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayInvoicesDue", "DisplayInvoicesDue\DisplayInvoicesDue.csproj", "{904390F3-9821-47DD-A796-B880882D1C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayablesData", "PayablesData\PayablesData.csproj", "{70907374-2BF0-411F-AC45-2AB080312FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904390F3-9821-47DD-A796-B880882D1C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904390F3-9821-47DD-A796-B880882D1C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904390F3-9821-47DD-A796-B880882D1C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904390F3-9821-47DD-A796-B880882D1C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70907374-2BF0-411F-AC45-2AB080312FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70907374-2BF0-411F-AC45-2AB080312FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70907374-2BF0-411F-AC45-2AB080312FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70907374-2BF0-411F-AC45-2AB080312FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

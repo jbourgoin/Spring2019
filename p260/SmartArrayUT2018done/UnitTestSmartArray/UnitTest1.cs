@@ -86,9 +86,25 @@ namespace UnitTestSmartArray
             Assert.IsTrue(expected, "Value not found in the array");
         }
 
-       
-      
-     
+        [TestMethod]
+        [ExpectedException(typeof(IndexOutOfRangeException))]
+        //verify smart array throws an exception if it tries to set a value outside of the array.
+        public void OutSideOfRange()
+        {
+            SmartArray testSmartArray = new SmartArray(SMART_ARRAY_SIZE);
+            int result = testSmartArray.GetAtIndex(15);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(IndexOutOfRangeException))]
+        //verify smart array throws an exception if it tries to set or get a value outside of the array.
+        public void SetAtNegativeIndex()
+        {
+            SmartArray testSmartArray = new SmartArray(SMART_ARRAY_SIZE);
+            testSmartArray.SetAtIndex(-15,0);
+        }
+
+
     }
 }
 
