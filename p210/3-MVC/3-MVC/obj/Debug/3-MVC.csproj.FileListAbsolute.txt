@@ -157,3 +157,4 @@ C:\Users\Joseph\Desktop\spring2019\p210\3-MVC\3-MVC\obj\Debug\3-MVC.csproj.CoreC
 C:\Users\Joseph\Desktop\spring2019\p210\3-MVC\3-MVC\obj\Debug\3-MVC.csproj.CopyComplete
 C:\Users\Joseph\Desktop\spring2019\p210\3-MVC\3-MVC\obj\Debug\3-MVC.dll
 C:\Users\Joseph\Desktop\spring2019\p210\3-MVC\3-MVC\obj\Debug\3-MVC.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\3-MVC\3-MVC\obj\Debug\3-MVC.csprojAssemblyReference.cache

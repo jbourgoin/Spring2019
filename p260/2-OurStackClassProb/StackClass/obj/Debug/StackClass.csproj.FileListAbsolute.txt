@@ -35,3 +35,9 @@ C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurSt
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb

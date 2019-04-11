@@ -23,7 +23,7 @@ namespace _3_MVC.Controllers
 
             SqlCommand selectCommand = new SqlCommand();
 
-            const string connectString = @"Server=NEPTUNE\SQLEXPRESS; Database=northwind; Integrated Security=false";
+            const string connectString = @"Server=localhost; Database=northwind; Integrated Security=true";
             SqlConnection conn;
             conn = new SqlConnection(connectString);
             selectCommand = new SqlCommand("Select CompanyName, Phone from Shippers", conn);

@@ -8,6 +8,14 @@ namespace UnitTestStack
     public class UnitTest1
     {
         [TestMethod]
+        // try the constructor
+        public void DoesConstructorThrowException()
+        {
+            OurStack testStack = new OurStack(10);
+            
+        }
+
+        [TestMethod]
         // try the myStack.IsEmpty_empty() property
         public void IsEmptyPropEmpty()
         {
@@ -47,40 +55,67 @@ namespace UnitTestStack
          }
 
          [TestMethod]
-         // try the IndexOutOfRangeException when try and pop and empty stack
-       
-         public void IndexOutOfRangeExceptionTest()
+        // try the IndexOutOfRangeException when try and pop and empty stack
+        [ExpectedException(typeof(IndexOutOfRangeException))]
+        public void IndexOutOfRangeExceptionTest()
          {
-           
-         }
+            OurStack testStack = new OurStack(3);
+            int x = testStack.Pop();
+        }
 
          [TestMethod]
          // try the OverflowException when no room left in backing array, test message
          public void OverflowExceptionMessage()
          {
-            
+            string expected = "Stack is full";
+            string actual = "";
+
+            try
+            {
+                OurStack testStack = new OurStack(3);
+                testStack.Push(77);
+                testStack.Push(77);
+                testStack.Push(77);
+                testStack.Push(77);
+            }
+            catch (OverflowException ex)
+            {
+                actual = ex.Message;
+            }
+            finally {
+                Assert.AreEqual(expected, actual);
+            }
          }
 
          [TestMethod]
          // try the myStack.Peek() method
          public void PeekTest()
          {
-            
+            OurStack testStack = new OurStack(3);
+            int expected = 42;
+            testStack.Push(expected);
+            int actual = testStack.Peek();
+            Assert.AreEqual(expected, actual, "Peek() returned the wrong value");
          }
 
          [TestMethod]
          // try the myStack.Peek() method again to make sure still there
          public void PeekAgainTest()
          {
-            
-         }
+            OurStack testStack = new OurStack(3);
+            int expected = 42;
+            testStack.Push(expected);
+            int actual = testStack.Peek();
+            Assert.AreEqual(expected, actual, "Peek() returned the wrong value");
+        }
         
          [TestMethod]
          //empty the stack
          public void EmptyStackTest()
          {
-             
-         }
+            OurStack testStack = new OurStack(3);
+            Assert.IsTrue(testStack.IsEmpty());
+        }
 
         
 

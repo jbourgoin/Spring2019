@@ -77,3 +77,13 @@ C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurSt
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.csproj.CopyComplete
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.exe
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\bin\Debug\TestOurStack.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\bin\Debug\TestOurStack.exe
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\bin\Debug\TestOurStack.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\bin\Debug\StackClass.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\bin\Debug\StackClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.exe
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\TestOurStack\obj\Debug\TestOurStack.pdb

@@ -38,3 +38,13 @@ C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurSt
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.csproj.CopyComplete
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.dll
 C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\bin\Debug\UnitTestStack.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\bin\Debug\UnitTestStack.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\bin\Debug\StackClass.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\bin\Debug\StackClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.dll
+C:\Users\Joseph\Desktop\spring2019\p260\2-OurStackClassProb\UnitTestStack\obj\Debug\UnitTestStack.pdb
