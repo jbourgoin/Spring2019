@@ -1,0 +1,157 @@
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\BirderHomework - BruteForce\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderWithObjectStructure\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderWithObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderWithObjectStructure\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\bin\Debug\BirdClassLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

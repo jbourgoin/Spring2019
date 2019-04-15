@@ -1,0 +1,63 @@
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\BirderHomework - BetterObjectStructure\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderHomework - BetterObjectStructure\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-2-IntroToDataAnalysis\part2\BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2015\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\ref\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part3\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\5-BirderManualDict\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
