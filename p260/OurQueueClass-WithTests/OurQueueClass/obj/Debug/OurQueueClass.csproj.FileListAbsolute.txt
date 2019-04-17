@@ -1,0 +1,53 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\OurQueueClass\obj\Debug\OurQueueClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.exe
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\bin\Debug\OurQueueClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.exe
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\OurQueueClass\obj\Debug\OurQueueClass.pdb

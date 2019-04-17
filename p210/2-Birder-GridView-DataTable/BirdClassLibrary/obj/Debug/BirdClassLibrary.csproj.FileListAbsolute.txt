@@ -1,0 +1,20 @@
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\BirderHomework\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part3\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\bin\Debug\BirdClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\FirstClass\7-Birder-GridView-DataTable\BirdClassLibrary\obj\Debug\BirdClassLibrary.pdb

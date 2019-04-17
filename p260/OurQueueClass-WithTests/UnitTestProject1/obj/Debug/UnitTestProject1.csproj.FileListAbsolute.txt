@@ -1,0 +1,38 @@
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\bin\Debug\OurQueueClass.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass\UnitTestProject1\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  3 - Queues\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.exe
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  3 - Queues\Part1\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.exe
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\bin\Debug\OurQueueClass.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Joseph\Desktop\spring2019\p260\OurQueueClass-WithTests\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
