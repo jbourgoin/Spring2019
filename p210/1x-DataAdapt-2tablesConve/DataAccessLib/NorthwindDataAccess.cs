@@ -12,7 +12,7 @@ namespace DataAccessLib
     {
         //Note:  If your server is not named localhost, you will need to change the connection string
         // private const string connectString = @"Server = localhost;Database=Northwind;Integrated Security=SSPI";
-        private const string connectString = @"Server = A254J-T006006;Database=Northwind;Integrated Security=SSPI";
+        private const string connectString = @"Server = localhost\sqlexpress;Database=Northwind;Integrated Security=SSPI";
 
         // Generic error message for database issues
         private const string sqlErrorMessage = "Database operation failed.  Please contact your System Administrator";

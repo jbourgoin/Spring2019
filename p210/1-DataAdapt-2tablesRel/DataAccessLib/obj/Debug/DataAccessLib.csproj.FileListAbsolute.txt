@@ -1,0 +1,45 @@
+c:\users\kurt\documents\visual studio 2012\Projects\DataAdapterSolution\DataAccessLib\bin\Debug\DataAccessLib.dll
+c:\users\kurt\documents\visual studio 2012\Projects\DataAdapterSolution\DataAccessLib\bin\Debug\DataAccessLib.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\DataAdapterSolution\DataAccessLib\obj\Debug\DataAccessLib.dll
+c:\users\kurt\documents\visual studio 2012\Projects\DataAdapterSolution\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-3-TheDataAdapterAndDataSet\DataAdapterSolution12\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-3-TheDataAdapterAndDataSet\DataAdapterSolution12\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-3-TheDataAdapterAndDataSet\DataAdapterSolution12\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-3-TheDataAdapterAndDataSet\DataAdapterSolution12\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapterSolution12\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapterSolution12\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapterSolution12\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapterSolution12\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapterSolution12\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapt-2tables\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapt-2tables\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\FirstClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\SecondClass\DataAdapt-2tables\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\SecondClass\DataAdapt-2tables\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\SecondClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\SecondClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-3A-TheDataAdapterAndDataSet\SecondClass\DataAdapt-2tables\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-3-TheDataAdapterAndDataSet\SecondClass\OrderOrderIDs\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-3-TheDataAdapterAndDataSet\SecondClass\1-DataAdapt-2tablesRel\DataAccessLib\obj\Debug\DataAccessLib.pdb
