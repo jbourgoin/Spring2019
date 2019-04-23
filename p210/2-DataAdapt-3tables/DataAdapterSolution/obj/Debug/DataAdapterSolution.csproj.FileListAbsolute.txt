@@ -158,3 +158,16 @@ C:\Users\kurt.friedrich\Desktop\OlderCourses\Prog210-Spring-17\Module-3-TheDataA
 C:\Users\kurt.friedrich\Desktop\OlderCourses\Prog210-Spring-17\Module-3-TheDataAdapterAndDataSet\SecondClass\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.csproj.CoreCompileInputs.cache
 C:\Users\kurt.friedrich\Desktop\OlderCourses\Prog210-Spring-17\Module-3-TheDataAdapterAndDataSet\SecondClass\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.exe
 C:\Users\kurt.friedrich\Desktop\OlderCourses\Prog210-Spring-17\Module-3-TheDataAdapterAndDataSet\SecondClass\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\bin\Debug\DataAdapterSolution.exe.config
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\bin\Debug\DataAdapterSolution.exe
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\bin\Debug\DataAdapterSolution.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\bin\Debug\DataAccessLib.dll
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\bin\Debug\DataAccessLib.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.Properties.Resources.resources
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.RelatedTablesForm.resources
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.exe
+C:\Users\Joseph\Desktop\spring2019\p210\2-DataAdapt-3tables\DataAdapterSolution\obj\Debug\DataAdapterSolution.pdb

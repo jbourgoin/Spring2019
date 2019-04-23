@@ -10,7 +10,7 @@ namespace DataAccessLib
 {
     public static class NorthwindDataAccess
     {
-        private const string connectString = @"Server = A254J-T006006;Database=Northwind;Integrated Security=SSPI";
+        private const string connectString = @"Server = localhost\SQLEXPRESS;Database=Northwind;Integrated Security=SSPI";
 
         // Generic error message for database issues
         private const string sqlErrorMessage = "Database operation failed.  Please contact your System Administrator";
