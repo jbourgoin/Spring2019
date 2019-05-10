@@ -1,0 +1,14 @@
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.dll
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.dll
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\DataAccessLib\obj\Debug\DataAccessLib.pdb

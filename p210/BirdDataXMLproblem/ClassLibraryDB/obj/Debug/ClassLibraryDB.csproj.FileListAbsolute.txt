@@ -1,0 +1,28 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb

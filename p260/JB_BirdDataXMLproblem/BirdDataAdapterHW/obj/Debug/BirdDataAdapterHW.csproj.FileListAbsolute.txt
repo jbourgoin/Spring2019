@@ -1,0 +1,92 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.Cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\BirdDataAdapterHW\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataAdapterStart\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblem\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-8-XMLandRelationalData\Homework\BirdDataXMLproblemEdited\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe.config
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.exe
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\BirdDataAdapterHW.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Form1.resources
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.Properties.Resources.resources
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.exe
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\obj\Debug\BirdDataAdapterHW.pdb
+C:\Users\Joseph\Desktop\spring2019\p260\BirdDataXMLproblem\BirdDataAdapterHW\bin\Debug\ClassLibraryDB.dll.config

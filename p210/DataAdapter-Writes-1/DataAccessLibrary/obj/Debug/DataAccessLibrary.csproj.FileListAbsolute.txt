@@ -25,3 +25,9 @@ C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

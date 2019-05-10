@@ -1,0 +1,129 @@
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDataSetCode\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\XML-TypedDSmissing\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-9-XMLandRelationalData\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo1.pdb
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo1Form.resources
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.Demo2Form.resources
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.MainForm.resources
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.csproj.CopyComplete
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.exe
+C:\Users\kurt.friedrich\Downloads\XML-missingTypedDS\XML-missingTypedDS\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo1.pdb

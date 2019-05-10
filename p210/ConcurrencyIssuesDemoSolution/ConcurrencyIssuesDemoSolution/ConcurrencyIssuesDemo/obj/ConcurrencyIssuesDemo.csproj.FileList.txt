@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConcurrencyIssuesDemo.MainForm.resources
+obj\Debug\ConcurrencyIssuesDemo.Properties.Resources.resources
+obj\Debug\ConcurrencyIssuesDemo.csproj.GenerateResource.Cache
+obj\Debug\ConcurrencyIssuesDemo.ShippersForm.resources
+bin\Debug\ConcurrencyIssuesDemo.exe
+bin\Debug\ConcurrencyIssuesDemo.pdb
+bin\Debug\DataAccessLibrary.dll
+bin\Debug\DataAccessLibrary.pdb
+obj\Debug\ConcurrencyIssuesDemo.exe
+obj\Debug\ConcurrencyIssuesDemo.pdb

@@ -1,0 +1,50 @@
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\DataAccessLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\TypedDataSetDemo1\TypedDataSetDemo1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-10-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-9-XMLandRelationalData\XML-TypedDataSetCode\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-9-XMLandRelationalData\XML-TypedDSmissing\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

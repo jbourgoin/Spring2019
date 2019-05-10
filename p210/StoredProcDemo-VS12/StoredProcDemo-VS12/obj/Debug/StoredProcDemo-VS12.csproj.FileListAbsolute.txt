@@ -1,0 +1,42 @@
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.DemoForm.resources
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.Properties.Resources.resources
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csproj.GenerateResource.Cache
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.dll
+c:\users\kurt\documents\visual studio 2012\Projects\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-6-7\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-6-7\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-6-7\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-7-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.DemoForm.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\StoredProcDemo-VS12.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\bin\Debug\DataAccessLib.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.DemoForm.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo_VS12.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-8-CallingStoredProcedures\StoredProcDemo-VS12\StoredProcDemo-VS12\obj\Debug\StoredProcDemo-VS12.csproj.GenerateResource.Cache

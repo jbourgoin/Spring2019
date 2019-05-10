@@ -104,26 +104,26 @@ namespace DataAdapter_Writes_1
             }
         }
 
-private void buttonCommit_Click(object sender, EventArgs e)
-{
+    private void buttonCommit_Click(object sender, EventArgs e)
+    {
 
-    try
-    {
-        for (var i = 0; i < productsDataSet.Tables["Products"].Rows.Count; i++) // Iterate through all the changes.
+        try
         {
-            if ((productsDataSet.Tables["Products"].Rows[i]["Discontinued"].ToString() != "True") &&
-                    (productsDataSet.Tables["Products"].Rows[i]["Discontinued"].ToString() != "False"))
+            for (var i = 0; i < productsDataSet.Tables["Products"].Rows.Count; i++) // Iterate through all the changes.
             {
-                productsDataSet.Tables["Products"].Rows[i]["Discontinued"] = false; // Sets the value to something accepted by the Database.    
+                if ((productsDataSet.Tables["Products"].Rows[i]["Discontinued"].ToString() != "True") &&
+                        (productsDataSet.Tables["Products"].Rows[i]["Discontinued"].ToString() != "False"))
+                {
+                    productsDataSet.Tables["Products"].Rows[i]["Discontinued"] = false; // Sets the value to something accepted by the Database.    
+                }
             }
+            NorthwindData.SaveProductInfo(productsDataSet);
         }
-        NorthwindData.SaveProductInfo(productsDataSet);
-    }
-    catch (Exception ex)
-    {
-        MessageBox.Show(ex.ToString());
-    }
+        catch (Exception ex)
+        {
+            MessageBox.Show(ex.ToString());
         }
+            }
 
 
     }

@@ -1,0 +1,2 @@
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.exe
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.pdb

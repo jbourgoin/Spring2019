@@ -1,0 +1,10 @@
+bin\Debug\TypedDataSetDemo2.exe
+bin\Debug\TypedDataSetDemo2.pdb
+bin\Debug\DataAccessLibrary.dll
+bin\Debug\DataAccessLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TypedDataSetDemo2.DemoForm.resources
+obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+obj\Debug\TypedDataSetDemo2.csproj.GenerateResource.Cache
+obj\Debug\TypedDataSetDemo2.exe
+obj\Debug\TypedDataSetDemo2.pdb

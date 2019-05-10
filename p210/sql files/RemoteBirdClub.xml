@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<XMLdataSet xmlns="http://tempuri.org/XMLdataSet.xsd">
+  <BirdCount>
+    <CountID>68</CountID>
+    <RegionID>A155</RegionID>
+    <BirderID>1</BirderID>
+    <BirdID>B2</BirdID>
+    <CountDate>2019-02-10T00:00:00-08:00</CountDate>
+    <Counted>22</Counted>
+  </BirdCount>
+  <BirdCount>
+    <CountID>53</CountID>
+    <RegionID>A205</RegionID>
+    <BirderID>2</BirderID>
+    <BirdID>B3</BirdID>
+    <CountDate>2019-03-11T00:00:00-07:00</CountDate>
+    <Counted>10</Counted>
+  </BirdCount>
+  <BirdCount>
+    <CountID>57</CountID>
+    <RegionID>A255</RegionID>
+    <BirderID>1</BirderID>
+    <BirdID>C34</BirdID>
+    <CountDate>2019-04-11T00:00:00-08:00</CountDate>
+    <Counted>7</Counted>
+  </BirdCount>
+   <BirdCount>
+    <CountID>84</CountID>
+    <RegionID>A155</RegionID>
+    <BirderID>3</BirderID>
+    <BirdID>D35</BirdID>
+    <CountDate>2019-04-13T00:00:00-09:00</CountDate>
+    <Counted>33</Counted>
+  </BirdCount>
+</XMLdataSet>

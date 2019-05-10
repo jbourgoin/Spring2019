@@ -1,0 +1,20 @@
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.exe
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo2.exe
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo2.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.DemoForm.resources
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Classes\Prog 210 -On-line\PROG 210\Module 16 XML and the DataSet\16 TypedDataSetDemo2\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.csproj.GenerateResource.Cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo2.exe
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\TypedDataSetDemo2.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.dll
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\bin\Debug\DataAccessLibrary.pdb
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.DemoForm.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.Properties.Resources.resources
+C:\Classes\Prog 210 -On-line\PROG 210\New Modules\Module 8 XML and the DataSet\16 TypedDataSetDemo1\14 TypedDataSetDemo2\TypedDataSetDemo2\obj\Debug\TypedDataSetDemo2.csproj.GenerateResource.Cache

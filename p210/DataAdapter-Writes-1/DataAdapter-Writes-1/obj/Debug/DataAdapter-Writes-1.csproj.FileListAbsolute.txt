@@ -56,3 +56,16 @@ C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CopyComplete
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
 C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CopyComplete
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\Joseph\Desktop\spring2019\p210\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb

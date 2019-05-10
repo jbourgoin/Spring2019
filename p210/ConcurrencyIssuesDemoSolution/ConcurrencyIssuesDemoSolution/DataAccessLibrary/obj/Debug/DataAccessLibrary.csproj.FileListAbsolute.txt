@@ -1,0 +1,31 @@
+C:\Documents and Settings\Leon Warman\My Documents\Teaching\PROG 210\MyMaterials\Module 11\Previous Materials\ConcurrencyIssuesDemo Solution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Documents and Settings\Leon Warman\My Documents\Teaching\PROG 210\MyMaterials\Module 11\Previous Materials\ConcurrencyIssuesDemo Solution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Documents and Settings\Leon Warman\My Documents\Teaching\PROG 210\MyMaterials\Module 11\Previous Materials\ConcurrencyIssuesDemo Solution\DataAccessLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leon Warman\My Documents\Teaching\PROG 210\MyMaterials\Module 11\Previous Materials\ConcurrencyIssuesDemo Solution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Documents and Settings\Leon Warman\My Documents\Teaching\PROG 210\MyMaterials\Module 11\Previous Materials\ConcurrencyIssuesDemo Solution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AA------Prog210 EnterpriseWeb II\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-4-Concurrency\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-5 Concurrency\ConcurrencyIssuesDemoSolution\ConcurrencyIssuesDemoSolution\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
